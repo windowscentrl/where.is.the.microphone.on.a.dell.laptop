@@ -1,6 +1,6 @@
 # where is the microphone on a dell laptop
 
-[![where is the microphone on a dell laptop](get-detail.png)](https://github.com/windowscentrl/where.is.the.microphone.on.a.dell.laptop)
+[![where is the microphone on a dell laptop](get-detail.png)](https://computer-solved.com/where-is-the-microphone-on-a-dell-laptop/)
 
 When using voice dictation, video calling, or audio recording apps on your laptop, you may need to adjust the volume of input devices like the microphone. The mic is typically located somewhere above the keyboard and just to the left. On most models, you’ll see a small hole with a black grille covering it from above. This is where the mic can be found on your Dell laptop. Users who frequently use their laptops for video calling or voice dictation sessions may want to adjust the volume of speech recognition software instead of muting the mic. Fortunately, locating this device is easy with some basic knowledge about laptops in general. Read on to learn more about where the microphone is on a Dell laptop and how to adjust its volume accordingly.
 
